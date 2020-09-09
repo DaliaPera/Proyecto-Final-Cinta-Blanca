@@ -1,0 +1,12 @@
+main{
+    background-image: url(https://image.freepik.com/foto-gratis/gradiente-gris-borrosa-resumen-antecedentes_3248-1394.jpg);
+}
+
+header{
+    background-color: black;
+}
+.card-img-top{
+    width: 50%;
+    height: 50%;
+}
+
